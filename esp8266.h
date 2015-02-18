@@ -1,6 +1,7 @@
 #ifndef _ESP8266_H_
 #define _ESP8266_H_
 
+#define __PROG_TYPES_COMPAT__
 #include <Arduino.h>
 #include <avr/pgmspace.h>
 
